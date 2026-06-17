@@ -1,1 +1,85 @@
-# tateru-privacy
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="index, follow">
+  <title>プライバシーポリシー｜TATERU</title>
+  <style>
+    :root { color-scheme: light dark; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Noto Sans JP", "Yu Gothic", Meiryo, sans-serif;
+      line-height: 1.8; color: #222; background: #fff;
+      max-width: 720px; margin: 0 auto; padding: 32px 20px 80px;
+    }
+    @media (prefers-color-scheme: dark) {
+      body { color: #e6e6e6; background: #111; }
+      a { color: #6fb3ff; }
+      hr { border-color: #333; }
+      .meta { color: #999; }
+    }
+    h1 { font-size: 1.6rem; margin-bottom: 4px; }
+    h2 { font-size: 1.15rem; margin-top: 2em; border-left: 4px solid #B0541E; padding-left: 10px; }
+    .meta { color: #666; font-size: 0.9rem; margin-bottom: 1.5em; }
+    ul { padding-left: 1.3em; }
+    li { margin: 0.3em 0; }
+    a { color: #B0541E; }
+    hr { border: none; border-top: 1px solid #ddd; margin: 2.5em 0; }
+    .note { font-size: 0.9rem; color: #666; }
+  </style>
+</head>
+<body>
+  <h1>プライバシーポリシー</h1>
+  <p class="meta">アプリ名：TATERU（家づくりまとめアプリ）<br>
+  制定日：2026年6月17日／最終改定日：2026年6月17日</p>
+
+  <p>TATERU開発（以下「当方」）は、モバイルアプリ「TATERU」（以下「本アプリ」）における利用者の情報の取り扱いについて、以下のとおりプライバシーポリシー（以下「本ポリシー」）を定めます。</p>
+
+  <h2>1. 取得する情報と保存場所</h2>
+  <p><strong>現在のバージョンの本アプリは、利用者が入力・登録した情報をすべてお使いの端末内にのみ保存し、外部のサーバーへ送信しません。</strong>当方が利用者の情報をサーバーで収集・保管することはありません。端末内にのみ保存される情報には、次のものが含まれます。</p>
+  <ul>
+    <li>資料（メモ、URL、写真・PDF等の添付ファイル）</li>
+    <li>やること（ToDo）および締切日時</li>
+    <li>連絡先（氏名、会社名、電話番号、メールアドレス等、利用者が登録した情報）</li>
+    <li>カテゴリ・進捗・表示テーマなどのアプリ内設定</li>
+  </ul>
+  <p>これらの情報は端末内のデータ領域に保存され、本アプリをアンインストールすると端末から削除されます。</p>
+
+  <h2>2. 端末の機能・権限の利用</h2>
+  <p>本アプリは、<strong>利用者がその操作を行ったときにのみ</strong>、機能の提供のために以下の端末の権限を使用します。これらを通じて扱う情報も、現在のバージョンではすべて端末内にのみ保存され、外部サーバーへの送信・アップロード・第三者との共有は行いません。</p>
+  <ul>
+    <li><strong>カメラ</strong>：利用者が資料に添付するために写真を撮影するときにのみ使用します。撮影した写真は当該資料に紐づけて端末内に保存されます。</li>
+    <li><strong>写真ライブラリ・ファイル</strong>：利用者が選択した写真やPDF等のファイルを資料に添付するためにのみ使用します。本アプリが写真ライブラリ全体を読み取ったり、利用者が選択していない写真・ファイルを取得・解析することはありません。</li>
+    <li><strong>通知</strong>：締切のリマインドを端末内のスケジュール通知として表示するためにのみ使用します。通知のために外部サーバーへ情報を送信することはありません。</li>
+  </ul>
+
+  <h2>3. 解析・広告</h2>
+  <p>現在のバージョンの本アプリは、利用状況の解析ツールや広告配信のためのトラッキングを使用していません。利用者を識別する目的で広告識別子（IDFA等）を取得することもありません。</p>
+
+  <h2>4. 第三者提供</h2>
+  <p>当方は、利用者の情報を第三者に販売・提供しません。法令に基づき開示が義務付けられる場合を除き、第三者へ提供することはありません。</p>
+
+  <h2>5. 将来のクラウド機能について（予告）</h2>
+  <p>当方は今後、利用者が<strong>任意で有効にできる</strong>バックアップ・複数端末同期・共有などのクラウド機能を追加する場合があります。これらの機能を利用者が有効にした場合に限り、対象となるデータが当方の委託先が運用する<strong>日本国内のサーバー</strong>に保存されます。クラウド機能を有効にしない場合は、本ポリシー第1項のとおりデータは端末内にのみ保存されます。</p>
+  <p>クラウド機能を実際に提供する際には、取得する情報・利用目的・保存場所・委託先等を明確にしたうえで<strong>本ポリシーを改定し、事前にアプリ内または本ページにてお知らせします。</strong></p>
+
+  <h2>6. データの管理・削除</h2>
+  <p>端末内に保存されたデータは、利用者ご自身が本アプリ内で削除するか、本アプリをアンインストールすることで削除できます。</p>
+
+  <h2>7. お子様の利用について</h2>
+  <p>本アプリは特定の年齢層を対象に個人情報を積極的に収集するものではありません。お子様が利用される場合は、保護者の管理のもとでご利用ください。</p>
+
+  <h2>8. 本ポリシーの変更</h2>
+  <p>本ポリシーの内容は、法令の変更や機能の追加（前項のクラウド機能等）に応じて改定することがあります。重要な変更を行う場合は、本ページの更新および必要に応じてアプリ内での告知により周知します。</p>
+
+  <h2>9. お問い合わせ</h2>
+  <p>本ポリシーおよび本アプリに関するお問い合わせは、下記までご連絡ください。</p>
+  <ul>
+    <li>公開者：TATERU開発</li>
+    <li>連絡先：<a href="mailto:seikazuma296@gmail.com">seikazuma296@gmail.com</a></li>
+  </ul>
+
+  <hr>
+  <p class="note">本ポリシーは日本法に準拠し、日本語を正文とします。</p>
+</body>
+</html>
